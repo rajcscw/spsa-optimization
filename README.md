@@ -1,4 +1,4 @@
-# stochastic-optimization
+# spsa-optimization
 This repository implements Simultaneous Perturbation Stochastic Approximation (SPSA) developed by James Spall.
 
 SPSA is a method used to finding global minima. The important stand-out feature from other optimization algorihtms is that, it approximates gradient.
